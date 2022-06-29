@@ -10,6 +10,7 @@ jobs:
   update-readme:
     name: Update todoist stats
     runs-on: ubuntu-latest
+    environment: TODOIST
     steps:
       - uses: actions/checkout@v2
       - uses: abhisheknaiidu/todoist-readme@master
