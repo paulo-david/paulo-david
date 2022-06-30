@@ -1,4 +1,4 @@
-# Hi there, I'm Paulo 👻 
+# Hi there, I'm Paulo 👻 - Front-end Developer
 
 <div align="center">
 <a href="mailto:paulodgsouza@gmail.com?subject=Olá%20Paulo%20David">
@@ -25,7 +25,7 @@
 
 * 🌱 I’m currently learning backend ( Docker, Typescript, Postgres, TypeORM )
 * 💬 Ask me about anything, from pointers in C to this anime season
-* ⚡ Fun fact: I 🫀 solving puzzles and decode problems with logic
+* ⚡ Fun fact: I 🫀 solving puzzles and decoding problems with logic
 * 📬 How to reach me: paulodgsouza@gmail.com;
 <!--
 - 🔭 I’m currently working on ...
@@ -33,7 +33,7 @@
 - 🤔 I’m looking for help with ...
 -->
 
-## Github Stats
+## <img width="3%" src="https://media1.giphy.com/avatars/mwooodward/cIe5MvDvX4Vc.gif" /> Github Statistics
 
 <p align="center">
 
@@ -47,10 +47,10 @@
   
 </p>
 
-## Todoist Stats
+## <img width="3%" src="https://www.svgrepo.com/show/354452/todoist-icon.svg" /> Todoist Statistics
 
 <!-- TODO-IST:START -->
-🏆  550 Karma Points           
+🏆  450 Karma Points           
 🌸  Completed 2 tasks today           
 ✅  Completed 15 tasks so far           
 ⏳  Longest streak is 1 days
