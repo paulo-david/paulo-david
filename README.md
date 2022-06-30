@@ -71,5 +71,10 @@
 ⏳  Longest streak is 2 days
 <!-- TODO-IST:END -->
 
+## Codewars
+<p align="center">
+  <img src="https://www.codewars.com/users/PauloDavid/badges/large" />
+</p>
+
 ## Snake
 ![Snake animation](https://github.com/paulo-david/paulo-david/blob/output/github-contribution-grid-snake.svg)
