@@ -33,6 +33,15 @@
 - 🤔 I’m looking for help with ...
 -->
 
+## Stats
+
+<p align="center">
+
+  <img width="440" align="center" src="https://github-readme-stats.vercel.app/api?username=paulo-david&count_private=true&hide=stars,issues&show_icons=true&line_height=28&theme=solarized-light" alt="paulo-david Github stats"/>
+
+  <img width="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-david&layout=compact&theme=solarized-light"/>
+
+</p>
 
 ## Todoist Stats
 
@@ -43,19 +52,7 @@
 ⏳  Longest streak is 1 days
 <!-- TODO-IST:END -->
 
-
-## Stats
-
-<p align="center">
-
-  <img width="440" height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=paulo-david&count_private=true&hide=stars&show_icons=true&theme=solarized-light" alt="paulo-david Github stats"/>
-
-  <img width="350" height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-david&layout=compact&theme=solarized-light"/>
-
-</p>
-
-
-### Languages and Tools
+### Skills
 
 <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>&nbsp;
 <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'/>&nbsp;
