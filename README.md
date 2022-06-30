@@ -20,6 +20,17 @@
 </a>
 </div>
 
+## About me
+
+* 🌱 I’m currently learning backend ( Docker, Typescript, Postgres, TypeORM )
+* 💬 Ask me about anything, from pointers in C to this anime season
+* ⚡ Fun fact: I 🫀 
+* 📬 How to reach me: paulodgsouza@gmail.com;
+<!--
+- 🔭 I’m currently working on ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+-->
 
 
 ## Todoist Stats
@@ -32,23 +43,14 @@
 <!-- TODO-IST:END -->
 
 
-* 🌱 I’m currently learning backend ( Docker, Typescript, Postgres, TypeORM )
-* 💬 Ask me about anything, from pointers in C to this anime season
-* ⚡ Fun fact: I 🫀 
-* 📬 How to reach me: paulodgsouza@gmail.com;
-<!--
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
--->
+## Stats
 
-![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo-david&count_private=true&hide=stars&show_icons=true&theme=solarized-light)
+<img src='https://github-readme-stats.vercel.app/api?username=paulo-david&count_private=true&hide=stars&show_icons=true&theme=solarized-light' width="400"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-david&layout=compact&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-david&layout=compact&theme=solarized-light' width="400"/>
 
 
-
-### Skils
+### Languages and Tools
 
 <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>&nbsp;
 <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'/>&nbsp;
