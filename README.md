@@ -31,7 +31,6 @@
 ⏳  Longest streak is 1 days
 <!-- TODO-IST:END -->
 
-  ![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo-david&count_private=true&hide=stars&show_icons=true&theme=solarized-light)
 
 * 🌱 I’m currently learning backend ( Docker, Typescript, Postgres, TypeORM )
 * 💬 Ask me about anything, from pointers in C to this anime season
@@ -43,16 +42,18 @@
 - 🤔 I’m looking for help with ...
 -->
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-david&layout=compact&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo-david&count_private=true&hide=stars&show_icons=true&theme=solarized-light)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-david&layout=compact&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 ### Skils
 
-<img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>
-<img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'/>
-<img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'/>
-<img src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white'/>
-<img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
-<img src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white'/>
-<img src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white'/>
+<img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>&nbsp;
+<img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'/>&nbsp;
+<img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'/>&nbsp;
+<img src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white'/>&nbsp;
+<img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>&nbsp;
+<img src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white'/>&nbsp;
+<img src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white'/>&nbsp;
