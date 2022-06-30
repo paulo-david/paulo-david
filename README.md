@@ -48,6 +48,20 @@
   
 </p>
 
+## Skills
+
+<!-- icons in https://devicon.dev/ -->
+
+<p align="center">
+  <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />&nbsp;&nbsp;
+  <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />&nbsp;&nbsp;
+  <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />&nbsp;&nbsp;
+  <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />&nbsp;&nbsp;
+  <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;&nbsp;
+  <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />&nbsp;&nbsp;
+  <!--<img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;-->
+</p>
+
 ## <img width="3%" src="https://www.svgrepo.com/show/354452/todoist-icon.svg" /> Todoist Statistics
 
 <!-- TODO-IST:START -->
@@ -56,16 +70,6 @@
 ✅  Completed 19 tasks so far           
 ⏳  Longest streak is 2 days
 <!-- TODO-IST:END -->
-
-## Skills
-
-<img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>&nbsp;
-<img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'/>&nbsp;
-<img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'/>&nbsp;
-<img src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white'/>&nbsp;
-<img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>&nbsp;
-<img src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white'/>&nbsp;
-<img src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white'/>&nbsp;
 
 ## Snake
 ![Snake animation](https://github.com/paulo-david/paulo-david/blob/output/github-contribution-grid-snake.svg)
