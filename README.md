@@ -68,6 +68,4 @@
 <img src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white'/>&nbsp;
 
 ## Snake
-![github contribution grid snake animation](https://raw.githubusercontent.com/paulo-david/paulo-david/output/github-contribution-grid-snake.gif)
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://github.com/paulo-david/paulo-david/blob/output/github-contribution-grid-snake.svg)
