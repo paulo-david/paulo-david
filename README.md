@@ -48,9 +48,9 @@
 
 <p align="center">
 
-  <img width="440" height="155" align="center" src="https://github-readme-stats.vercel.app/api?username=paulo-david&count_private=true&hide=stars&show_icons=true&theme=solarized-light" alt="paulo-david Github stats"/>
+  <img width="440" height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=paulo-david&count_private=true&hide=stars&show_icons=true&theme=solarized-light" alt="paulo-david Github stats"/>
 
-  <img width="350" height="155" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-david&layout=compact&theme=solarized-light"/>
+  <img width="350" height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-david&layout=compact&theme=solarized-light"/>
 
 </p>
 
