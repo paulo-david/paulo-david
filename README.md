@@ -20,6 +20,7 @@
 </a>
 </div>
 
+
 ## About me
 
 * 🌱 I’m currently learning backend ( Docker, Typescript, Postgres, TypeORM )
@@ -45,9 +46,13 @@
 
 ## Stats
 
-<img src='https://github-readme-stats.vercel.app/api?username=paulo-david&count_private=true&hide=stars&show_icons=true&theme=solarized-light' width="400" height="150" align="center"/>
+<p align="center">
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-david&layout=compact&theme=solarized-light' width="400" align="center"/>
+  <img width="440" align="center" src="https://github-readme-stats.vercel.app/api?username=paulo-david&count_private=true&hide=stars&show_icons=true&theme=solarized-light" alt="paulo-david Github stats"/>
+
+  <img width="350" height="155" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-david&layout=compact&theme=solarized-light"/>
+
+</p>
 
 
 ### Languages and Tools
