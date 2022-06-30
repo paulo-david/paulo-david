@@ -45,9 +45,9 @@
 
 ## Stats
 
-<img src='https://github-readme-stats.vercel.app/api?username=paulo-david&count_private=true&hide=stars&show_icons=true&theme=solarized-light' width="400"/>
+<img src='https://github-readme-stats.vercel.app/api?username=paulo-david&count_private=true&hide=stars&show_icons=true&theme=solarized-light' width="400" height="150" align="center"/>
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-david&layout=compact&theme=solarized-light' width="400"/>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-david&layout=compact&theme=solarized-light' width="400" align="center"/>
 
 
 ### Languages and Tools
