@@ -73,7 +73,9 @@
 
 ## Codewars
 <p align="center">
-  <img src="https://www.codewars.com/users/PauloDavid/badges/large" />
+  <a href="https://www.codewars.com/users/PauloDavid">
+    <img src="https://www.codewars.com/users/PauloDavid/badges/large" />
+  </a>
 </p>
 
 ## Snake
