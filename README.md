@@ -65,7 +65,7 @@
 ## <img width="3%" src="https://www.svgrepo.com/show/354452/todoist-icon.svg" /> Todoist Statistics
 
 <!-- TODO-IST:START -->
-🏆  860 Karma Points           
+🏆  929 Karma Points           
 🌸  Completed 3 tasks today           
 ✅  Completed 23 tasks so far           
 ⏳  Longest streak is 3 days
