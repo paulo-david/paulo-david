@@ -13,7 +13,7 @@
   />
 </a>
 &nbsp;
-<a heref='https://github.com/paulo-david/' >
+<a href='https://github.com/paulo-david/' >
   <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'
   align="center"
   />
