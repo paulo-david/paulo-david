@@ -1,30 +1,35 @@
 # Hi there, I'm Paulo 👻 - Front-end Developer
 
 <div align="center">
-<a href="mailto:paulodgsouza@gmail.com?subject=Olá%20Paulo%20David">
-  <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"
-  align="center"
-  />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/paulodgsouza/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" 
-  align="center"
-  />
-</a>
-&nbsp;
-<a href="https://github.com/paulo-david/" target="_blank">
-  <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'
-  align="center"
-  />
-</a>
+
+  <p>
+    <a href="mailto:paulodgsouza@gmail.com?subject=Olá%20Paulo%20David">
+      <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"
+      align="center"
+      />
+    </a>
+    &nbsp;
+    
+    <a href="https://www.linkedin.com/in/paulodgsouza/" target="_blank">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" 
+      align="center"
+      />
+    </a>
+    &nbsp;
+    
+    <a href="https://github.com/paulo-david/" target="_blank">
+      <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'
+      align="center"
+      />
+    </a>
+  </p>
 </div>
 
 
 ## About me
 
 * 🌱 I’m currently learning backend ( Docker, Typescript, Postgres, TypeORM )
-* 💬 Ask me about anything, from pointers in C to this anime season
+* 💬 Ask me about anything, from pointers in C to the current anime season
 * ⚡ Fun fact: I 🫀 solving puzzles and decoding problems with logic
 * 🤝 Let's connect on <a href="https://www.linkedin.com/in/paulodgsouza/" target="_blank">linkedin</a>
 <!--
