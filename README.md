@@ -9,14 +9,18 @@
       />
     </a>
     &nbsp;
-    
+  </p>
+  
+  <p>
     <a href="https://www.linkedin.com/in/paulodgsouza/" target="_blank">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" 
       align="center"
       />
     </a>
     &nbsp;
-    
+  </p>
+
+  <p>
     <a href="https://github.com/paulo-david/" target="_blank">
       <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'
       align="center"
