@@ -23,7 +23,7 @@
 
 ## About me
 
-* 🌱 I’m currently learning backend ( Docker, Typescript, Postgres, TypeORM )
+* 🌱 I’m currently learning backend ( Python and Django )
 * 💬 Ask me about anything, from pointers in C to the current anime season
 * ⚡ Fun fact: I 🫀 solving puzzles and decoding problems with logic
 * 🤝 Let's connect on <a href="https://www.linkedin.com/in/paulodgsouza/">linkedin</a>
@@ -59,6 +59,9 @@
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />&nbsp;&nbsp;
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;&nbsp;
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />&nbsp;&nbsp;
+  <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />&nbsp;&nbsp;
+  <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />&nbsp;&nbsp;
+  <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />&nbsp;&nbsp;
   <!--<img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;-->
 </p>
 
