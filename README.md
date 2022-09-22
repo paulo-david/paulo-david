@@ -40,7 +40,7 @@
 
   <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=paulo-david&count_private=true&hide=stars&line_height=30&show_icons=true&theme=solarized-light" alt="paulo-david Github stats"/>
   
-  <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-david&layout=compact&theme=solarized-light"/>
+  <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-david&layout=compact&langs_count=4&theme=solarized-light"/>
   
   <p align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=paulo-david&theme=solarized-light&date_format=j%20M%5B%20Y%5D&currStreakNum=E34C26&currStreakLabel=188CD0"/>
