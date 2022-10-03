@@ -23,7 +23,7 @@
 
 ## About me
 
-* 🌱 I’m currently learning backend ( Python and Django )
+* 🌱 I’m currently learning Java and Prolog
 * 💬 Ask me about anything, from pointers in C to the current anime season
 * ⚡ Fun fact: I 🫀 solving puzzles and decoding problems with logic
 * 🤝 Let's connect on <a href="https://www.linkedin.com/in/paulodgsouza/">linkedin</a>
